@@ -1,7 +1,7 @@
 {
-    "name": "Naiclass",
+    "name": "ivi.ru",
     "date": "2021.10.14",
-    "version": "1.0.2",
+    "version": "1.1.2",
     "description": "The first Russian free video provider with a licensed full-length content.",
     "author": {
         "name": "SashaVons"
@@ -19,14 +19,14 @@
         "description": "The first Russian free video provider with a licensed full-length content.",
         "icons": {
             "paths": {
-                "480": "static/media/",
-                "576": "static/media/",
-                "720": "static/media/",
-                "1080": "static/media/"
+                "480": "img/480/",
+                "576": "img/576/",
+                "720": "img/720/",
+                "1080": "img/1080/"
             },
             "states": {
-                "normal": "logo_b.f9a980a3.png",
-                "active": "logo_b.f9a980a3.png"
+                "normal": "normal.png",
+                "active": "active.png"
             }
         },
         "options": [
